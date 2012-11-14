@@ -1,3 +1,7 @@
 Testing Git Push
 
 Changing File
+
+Instead of pulling:
+git fetch origin
+git merge origin master
